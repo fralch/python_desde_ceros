@@ -65,7 +65,7 @@ texto.islower()
 # esta en mayusculas la primera letra
 texto.istitle() 
 #empienza con una palabra
-texto.startswith("Hola")
+texto.startswith("Hola") 
  
 # separar un string por un caracter 
 texto.split(" ")
